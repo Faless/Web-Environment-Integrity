@@ -116,6 +116,7 @@ client javascript may be modified to alter the validation result.
 - Detect large scale cheating in web based games with fake clients
 - Detect compromised devices where user data would be at risk
 - Detect account takeover attempts by identifying password guessing
+- Detect usage of adblockers
 
 ## How it works
 
